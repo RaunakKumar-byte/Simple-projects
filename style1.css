@@ -1,0 +1,50 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+header{
+    background-color: rgb(186, 107, 226);
+    
+    color: beige;
+    height: 100px;
+}
+.navdiv{
+    display: flex;
+    justify-content: space-between;
+}
+li{
+ display: inline-block;
+}
+ li a{
+    
+    font-size: 10px;
+    align-items: center;
+    
+    color: azure;
+
+}
+#me{
+    text-align: center;
+}
+#flex{
+    display: flex;
+    justify-content: space-evenly;
+}
+#flex>div img[alt="icon"]{
+    align-self: flex-start;
+
+}
+nav{
+    text-align: center;
+}
+#search{
+    float: right;
+}
+.question{
+
+
+    background-color: rgb(195, 172, 206);
+}

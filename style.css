@@ -1,0 +1,29 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+
+header{
+    margin: 0px;
+    background-color: aqua;
+    text-align: center;
+    height: 100px;
+}
+nav{
+    margin-top: 20px;
+}
+#me{
+    margin: 50px;
+    text-align: center;
+    height: 300px ;
+}
+footer{
+    background-color: aqua;
+    text-align: center;
+    height: 50px;
+}
+button{
+    background-color: aqua;
+}
